@@ -1,0 +1,51 @@
+{
+	"basics": {
+		"name": "Himanshu Verma",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019kucp1120@iiitkota.ac.in",
+		"phone": "---Enter Mobile Number---",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. I have a huge interest in Full Stack development and Penetration testing.",
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "himanshu608",
+				"url": "https://www.github.com/himanshu608/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Himanshu Verma",
+				"url": "https://www.linkedin.com/in/himanshu-verma-b28a071a6"
+			},
+			{
+				"network": "Instagram",
+				"username": "__happy_himanshu",
+				"url": "https://www.instagram.com/__happy_himanshu/"
+			}
+		]
+	},
+	
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08",
+		"endDate": "2023",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "JQuery", "C/C++", "Python", "JAVA", "NodeJs"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Football", "Basketball", "Carrom"]
+	},{
+		"name": "Art",
+		"keywords": ["Oil-Painting", "Sketch"]
+	}]
+}
